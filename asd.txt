@@ -1,4 +1,4 @@
 # Fil 2: asd
 
-Nytt, nytt
-Tillagt på githubs website.
+# Nytt, nytt
+# Tillagt på githubs website.
