@@ -1,6 +1,7 @@
 #----------------------------------
 # txt2
-modif2
+modif4 staged modif
+unstaged modif
 1
 2
 3
@@ -11,3 +12,4 @@ modif2
 8
 9
 0
+unstaged modif
